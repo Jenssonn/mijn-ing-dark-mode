@@ -1,0 +1,45 @@
+html, body {
+    background-color: #1f1f1f;
+    color: #d6d6d6 !important;
+}
+
+.header {
+    background-color: #2e2e2e !important;
+    color: #d6d6d6;
+}
+
+/* Mijn ING Login Style */
+
+.ing-uif-card, .up-title {
+    background-color: #2e2e2e !important;
+    color: #d6d6d6 !important
+}
+
+.loading-container {
+    background-color: #2e2e2e !important;
+    color: #d6d6d6 !important
+}
+
+.loading-container h1 {
+    color: #d6d6d6 !important
+}
+
+input {
+    background: #1f1f1f !important;
+}
+
+form, input, label, p, .form-field__label, a.link-as-tab, a.link-as-tab:hover, a.link-as-tab:visited, .app-footer--link {
+    color: #d6d6d6 !important;
+}
+
+
+.app-footer--link {
+    border-bottom: 1px solid #d6d6d6 !important;
+}
+.app-footer--link:hover {
+    background: #5d5d5d !important;
+}
+
+.link-as-tab-wrapper {
+    border-bottom: 2px solid #5d5d5d
+}
